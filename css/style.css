@@ -173,7 +173,7 @@ header {
 }
 .parallax-pattern-overlay {
 	background-image:url(../img/pattern.png);
-	background-repeat: repeat;
+	background-repeat: round;
 }
 /* --- Heading --- */
 .heading {
